@@ -6,7 +6,7 @@ import {COLORS} from '../../constants';
 const OnBoarding = () => {
   return (
     <SafeAreaView style={styles.container}>
-      <Text>Onboarding Screen</Text>
+      <Text>Onbooarding Screen</Text>
     </SafeAreaView>
   );
 };
